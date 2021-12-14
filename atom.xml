@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://photos.f18.run</id>
+    <title>方十八-个人相册</title>
+    <updated>2021-12-14T07:31:01.257Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://photos.f18.run"/>
+    <link rel="self" href="https://photos.f18.run/atom.xml"/>
+    <subtitle>爱好和特长有很多，擅长word、excel、 ppt、 wind等软件的安装与卸载，精通PE、PS、PB、 DCF、PEG等单词的拼写，拥有B站、腾讯视频、优酷、爱奇艺注册账号.
+熟悉Windows、Linux、 Mac、Android、IOS、HarmonyOS、MIUI、WP8等系统的开关机。</subtitle>
+    <logo>https://photos.f18.run/images/avatar.png</logo>
+    <icon>https://photos.f18.run/favicon.ico</icon>
+    <rights>All rights reserved 2021, 方十八-个人相册</rights>
+    <entry>
+        <title type="html"><![CDATA[灰]]></title>
+        <id>https://photos.f18.run/hui/</id>
+        <link href="https://photos.f18.run/hui/">
+        </link>
+        <updated>2021-12-14T07:16:00.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨]]></title>
+        <id>https://photos.f18.run/yu/</id>
+        <link href="https://photos.f18.run/yu/">
+        </link>
+        <updated>2021-12-14T07:15:27.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒冬]]></title>
+        <id>https://photos.f18.run/han-dong/</id>
+        <link href="https://photos.f18.run/han-dong/">
+        </link>
+        <updated>2021-12-14T07:15:07.000Z</updated>
+        <content type="html"><![CDATA[<p>寒冬</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏]]></title>
+        <id>https://photos.f18.run/xia/</id>
+        <link href="https://photos.f18.run/xia/">
+        </link>
+        <updated>2021-12-14T07:14:39.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏]]></title>
+        <id>https://photos.f18.run/f18/</id>
+        <link href="https://photos.f18.run/f18/">
+        </link>
+        <updated>2021-12-14T07:13:47.000Z</updated>
+        <content type="html"><![CDATA[<p>夏</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虎丘]]></title>
+        <id>https://photos.f18.run/hu-qiu/</id>
+        <link href="https://photos.f18.run/hu-qiu/">
+        </link>
+        <updated>2021-12-14T07:10:50.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+</feed>
